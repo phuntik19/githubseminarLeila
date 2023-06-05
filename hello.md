@@ -23,7 +23,7 @@
 
 ![Иллюстрация к проекту](https://yandex.kz/images/search?img_url=https%3A%2F%2Fvsegda-pomnim.com%2Fuploads%2Fposts%2F2022-04%2F1651047978_36-vsegda-pomnim-com-p-zelenaya-morskaya-cherepakha-foto-40.jpg&lr=29585&nl=1&pos=1&rpt=simage&source=morda&text=%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%A7%D0%B5%D1%80%D0%B5%D0%BF%D0%B0%D1%85%D0%B0)
 
-
+Инструкуция: Основные команды Git
 
 
 
