@@ -53,6 +53,6 @@ git add - добавить файл или файл к следующему ко
 > *git checkout [branch_name]* -переход к другой ветке
 
 > *git branch -d [branch_name]* - удалить ветку
-
+солнце
 
 
